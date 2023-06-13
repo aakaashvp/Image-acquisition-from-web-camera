@@ -1,5 +1,5 @@
 ## Ex no: 2
-## Date: 07/04/2022
+## Date: 22.03.2023
 # <p align="center">Image Acquisition from Web Camera</p>
 ## Aim
  
